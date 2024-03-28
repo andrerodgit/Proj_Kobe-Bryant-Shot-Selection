@@ -19,7 +19,7 @@ Este projeto usa dados dos arremessos de Kobe Bryant para construir modelos que 
 
 ## Instalação
 
-1. Clone este repositório.
+1. Clone este repositório: https://github.com/andrerodgit/Proj_Kobe-Bryant-Shot-Selection
 2. Instale as dependências usando `pip install -r requirements.txt`.
 3. Execute o aplicativo Streamlit com `streamlit run app.py`.
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/de18495a7cdb47f6b10a060ed8980548/artifacts
+end_time: 1712150607978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de18495a7cdb47f6b10a060ed8980548
+run_name: adorable-stork-366
+run_uuid: de18495a7cdb47f6b10a060ed8980548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712150557456
+status: 3
+tags: []
+user_id: andre

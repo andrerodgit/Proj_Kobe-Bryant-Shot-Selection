@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/819135604688997015/d63216d19bf14b578bd3acdcf649015a/artifacts
+deleted_time: 1712330793998
+end_time: null
+entry_point_name: ''
+experiment_id: '819135604688997015'
+lifecycle_stage: deleted
+run_id: d63216d19bf14b578bd3acdcf649015a
+run_name: upbeat-seal-709
+run_uuid: d63216d19bf14b578bd3acdcf649015a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712018093133
+status: 1
+tags: []
+user_id: andre

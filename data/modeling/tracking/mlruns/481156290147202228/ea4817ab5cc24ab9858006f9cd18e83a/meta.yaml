@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/481156290147202228/ea4817ab5cc24ab9858006f9cd18e83a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '481156290147202228'
+lifecycle_stage: active
+run_id: ea4817ab5cc24ab9858006f9cd18e83a
+run_name: gregarious-shark-835
+run_uuid: ea4817ab5cc24ab9858006f9cd18e83a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712350753397
+status: 1
+tags: []
+user_id: andre

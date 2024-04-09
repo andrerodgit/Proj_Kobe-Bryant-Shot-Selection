@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/456217708371445287/1c4bbb6d7e184711a018f1042a6cfc2b/artifacts
+end_time: 1712667262350
+entry_point_name: ''
+experiment_id: '456217708371445287'
+lifecycle_stage: active
+run_id: 1c4bbb6d7e184711a018f1042a6cfc2b
+run_name: capricious-moth-542
+run_uuid: 1c4bbb6d7e184711a018f1042a6cfc2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712667261728
+status: 3
+tags: []
+user_id: andre

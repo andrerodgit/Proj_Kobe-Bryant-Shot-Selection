@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/28618938df7643ab94ba90936fb321a5/artifacts
+end_time: 1712158624696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28618938df7643ab94ba90936fb321a5
+run_name: placid-bass-448
+run_uuid: 28618938df7643ab94ba90936fb321a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712158570660
+status: 3
+tags: []
+user_id: andre

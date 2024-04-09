@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/481156290147202228/a3d6aba4a1704f56b5c186a42e91a605/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '481156290147202228'
+lifecycle_stage: active
+run_id: a3d6aba4a1704f56b5c186a42e91a605
+run_name: blushing-goose-328
+run_uuid: a3d6aba4a1704f56b5c186a42e91a605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712335109857
+status: 1
+tags: []
+user_id: andre

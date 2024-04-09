@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/819135604688997015/99f49588fbdc4ef895274703b38d2dd1/artifacts
+deleted_time: 1712330793998
+end_time: 1712088461773
+entry_point_name: ''
+experiment_id: '819135604688997015'
+lifecycle_stage: deleted
+run_id: 99f49588fbdc4ef895274703b38d2dd1
+run_name: funny-perch-655
+run_uuid: 99f49588fbdc4ef895274703b38d2dd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712088302713
+status: 3
+tags: []
+user_id: andre

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/c698f4326c7344ed97b339d93d0e99ab/artifacts
+end_time: 1712163611047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c698f4326c7344ed97b339d93d0e99ab
+run_name: enchanting-seal-695
+run_uuid: c698f4326c7344ed97b339d93d0e99ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712163422908
+status: 3
+tags: []
+user_id: andre

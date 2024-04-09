@@ -1,0 +1,5 @@
+LogisticRegression(C=9.185, class_weight={}, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=5945, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)

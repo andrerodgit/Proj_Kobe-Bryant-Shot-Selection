@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1712605750884
+current_stage: None
+description: null
+last_updated_timestamp: 1712605750884
+name: Modelo_Kobe_Bryant
+run_id: 562bbc0198f34a64a5068670708a5517
+run_link: null
+source: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/456217708371445287/562bbc0198f34a64a5068670708a5517/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/456217708371445287/562bbc0198f34a64a5068670708a5517/artifacts/model
+user_id: null
+version: 20

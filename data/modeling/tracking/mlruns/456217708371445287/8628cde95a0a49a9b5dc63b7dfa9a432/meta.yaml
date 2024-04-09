@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/456217708371445287/8628cde95a0a49a9b5dc63b7dfa9a432/artifacts
+end_time: 1712616006523
+entry_point_name: ''
+experiment_id: '456217708371445287'
+lifecycle_stage: active
+run_id: 8628cde95a0a49a9b5dc63b7dfa9a432
+run_name: debonair-goat-330
+run_uuid: 8628cde95a0a49a9b5dc63b7dfa9a432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712616005848
+status: 3
+tags: []
+user_id: andre

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/819135604688997015/2e7f0131fbb54f839ceeccbabe8684a4/artifacts
+deleted_time: 1712330793998
+end_time: 1712018013135
+entry_point_name: ''
+experiment_id: '819135604688997015'
+lifecycle_stage: deleted
+run_id: 2e7f0131fbb54f839ceeccbabe8684a4
+run_name: casual-smelt-8
+run_uuid: 2e7f0131fbb54f839ceeccbabe8684a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712017977911
+status: 3
+tags: []
+user_id: andre

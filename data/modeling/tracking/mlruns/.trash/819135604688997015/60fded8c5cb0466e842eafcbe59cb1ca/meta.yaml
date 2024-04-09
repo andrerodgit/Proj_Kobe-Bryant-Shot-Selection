@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/819135604688997015/60fded8c5cb0466e842eafcbe59cb1ca/artifacts
+deleted_time: 1712330793998
+end_time: 1712078159287
+entry_point_name: ''
+experiment_id: '819135604688997015'
+lifecycle_stage: deleted
+run_id: 60fded8c5cb0466e842eafcbe59cb1ca
+run_name: likeable-dog-720
+run_uuid: 60fded8c5cb0466e842eafcbe59cb1ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712076102508
+status: 3
+tags: []
+user_id: andre

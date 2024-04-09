@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/60426804fc1e47138e125b92cad540ea/artifacts
+end_time: 1712153142113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60426804fc1e47138e125b92cad540ea
+run_name: illustrious-mule-965
+run_uuid: 60426804fc1e47138e125b92cad540ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712152995353
+status: 3
+tags: []
+user_id: andre

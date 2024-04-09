@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/11e7d1bb499e411ebec29b0dd3202976/artifacts
+end_time: 1712161902393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11e7d1bb499e411ebec29b0dd3202976
+run_name: enchanting-hound-953
+run_uuid: 11e7d1bb499e411ebec29b0dd3202976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712161824753
+status: 3
+tags: []
+user_id: andre

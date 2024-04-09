@@ -1,0 +1,30 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.9.0
+model_size_bytes: 1172
+model_uuid: 66f1351b38d74ea6ae7d7ec6bad281f9
+run_id: a50a87f13c664355b80b5b80049e7c73
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "lat"}, {"type": "double", "name": "lon"},
+    {"type": "long", "name": "minutes_remaining"}, {"type": "long", "name": "period"},
+    {"type": "long", "name": "playoffs"}, {"type": "long", "name": "shot_distance"}]'
+  outputs: '[{"type": "integer"}]'
+  params: null
+utc_time_created: '2024-04-08 19:53:21.156504'

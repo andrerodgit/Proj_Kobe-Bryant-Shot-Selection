@@ -1,0 +1,48 @@
+import pandas as pd
+from sklearn.metrics import log_loss, f1_score
+import joblib
+import mlflow
+
+# Definir a URI de rastreamento do MLflow para apontar para o local desejado
+mlflow.set_tracking_uri("file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns")
+
+# Definir o experimento onde a execução será registrada
+mlflow.set_experiment("ModelMonitoring")
+
+# Iniciar a execução do MLflow para monitoramento contínuo do modelo
+with mlflow.start_run(run_name="ModelMonitoring"):
+    # Carregar a base de produção
+    prod_data_path = "C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/raw/dataset_kobe_prod.parquet"
+    df_prod = pd.read_parquet(prod_data_path)
+
+    # Carregar o modelo treinado
+    model_path = "C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/models/model.pkl"
+    model = joblib.load(model_path)
+
+    # Preparar os dados de entrada
+    X_prod = df_prod.drop('shot_made_flag', axis=1)
+    y_prod_true = df_prod['shot_made_flag']
+
+    # Fazer previsões usando o modelo carregado
+    y_prod_pred_proba = model.predict_proba(X_prod)[:, 1]
+
+    # Calcular métricas de desempenho na base de produção
+    log_loss_prod = log_loss(y_prod_true, y_prod_pred_proba)
+    f1_score_prod = f1_score(y_prod_true, (y_prod_pred_proba > 0.5).astype(int))
+
+    # Definir os limiares para log loss e F1 score
+    limiar_log_loss = 0.5
+    limiar_f1_score = 0.7
+
+    # Comparar as métricas com limiares predefinidos e tomar medidas adequadas, se necessário
+    if log_loss_prod > limiar_log_loss:
+        print("Desvio significativo detectado no log loss. Tome medidas adequadas.")
+    if f1_score_prod < limiar_f1_score:
+        print("Desvio significativo detectado no F1 score. Tome medidas adequadas.")
+
+    # Registrar métricas de desempenho no MLflow
+    mlflow.log_metric("log_loss_prod", log_loss_prod)
+    mlflow.log_metric("f1_score_prod", f1_score_prod)
+
+    print("Monitoramento concluído com sucesso.")
+

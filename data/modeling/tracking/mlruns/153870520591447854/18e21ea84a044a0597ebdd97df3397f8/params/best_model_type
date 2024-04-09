@@ -1,0 +1,5 @@
+DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
+                       max_depth=3, max_features=1.0, max_leaf_nodes=None,
+                       min_impurity_decrease=0.001, min_samples_leaf=2,
+                       min_samples_split=10, min_weight_fraction_leaf=0.0,
+                       random_state=7150, splitter='best')

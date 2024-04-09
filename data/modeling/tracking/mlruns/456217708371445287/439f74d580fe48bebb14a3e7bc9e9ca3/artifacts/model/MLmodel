@@ -1,0 +1,33 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 2.9.2
+model_size_bytes: 1410
+model_uuid: d4e19ddbfc54428aa0aeda6a7d7770ce
+run_id: 439f74d580fe48bebb14a3e7bc9e9ca3
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "lat"}, {"type": "double", "name": "lon"},
+    {"type": "long", "name": "minutes_remaining"}, {"type": "long", "name": "shot_distance"},
+    {"type": "integer", "name": "period_2"}, {"type": "integer", "name": "period_3"},
+    {"type": "integer", "name": "period_4"}, {"type": "integer", "name": "period_5"},
+    {"type": "integer", "name": "period_6"}, {"type": "integer", "name": "period_7"},
+    {"type": "integer", "name": "playoffs_1"}]'
+  outputs: '[{"type": "integer"}]'
+  params: null
+utc_time_created: '2024-04-05 16:23:23.714315'

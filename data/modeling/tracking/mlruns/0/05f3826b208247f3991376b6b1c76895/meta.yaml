@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/0/05f3826b208247f3991376b6b1c76895/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05f3826b208247f3991376b6b1c76895
+run_name: merciful-frog-439
+run_uuid: 05f3826b208247f3991376b6b1c76895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712599059016
+status: 1
+tags: []
+user_id: andre

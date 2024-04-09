@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/456217708371445287/7487df51c7c14e4e805f95ad2832bafb/artifacts
+end_time: 1712337606868
+entry_point_name: ''
+experiment_id: '456217708371445287'
+lifecycle_stage: active
+run_id: 7487df51c7c14e4e805f95ad2832bafb
+run_name: PipelineAplicacao
+run_uuid: 7487df51c7c14e4e805f95ad2832bafb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712337600280
+status: 3
+tags: []
+user_id: andre

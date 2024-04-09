@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/47850d69179e49259b4209649f83ef0e/artifacts
+end_time: 1712160039197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47850d69179e49259b4209649f83ef0e
+run_name: bouncy-ox-44
+run_uuid: 47850d69179e49259b4209649f83ef0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712159297132
+status: 3
+tags: []
+user_id: andre

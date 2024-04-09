@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/456217708371445287/1c71b41a044f4a0da90fed4afcca3f57/artifacts
+end_time: 1712611702809
+entry_point_name: ''
+experiment_id: '456217708371445287'
+lifecycle_stage: active
+run_id: 1c71b41a044f4a0da90fed4afcca3f57
+run_name: caring-panda-436
+run_uuid: 1c71b41a044f4a0da90fed4afcca3f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712611702109
+status: 3
+tags: []
+user_id: andre

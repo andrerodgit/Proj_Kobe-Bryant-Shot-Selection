@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/d30825cca7014cdd85a07a749e2ba5ee/artifacts
+end_time: 1712154250510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d30825cca7014cdd85a07a749e2ba5ee
+run_name: sedate-auk-357
+run_uuid: d30825cca7014cdd85a07a749e2ba5ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712154214143
+status: 3
+tags: []
+user_id: andre

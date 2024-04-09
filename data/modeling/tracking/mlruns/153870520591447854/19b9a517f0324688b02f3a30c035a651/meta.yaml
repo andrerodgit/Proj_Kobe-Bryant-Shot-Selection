@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/153870520591447854/19b9a517f0324688b02f3a30c035a651/artifacts
+end_time: 1712167008669
+entry_point_name: ''
+experiment_id: '153870520591447854'
+lifecycle_stage: active
+run_id: 19b9a517f0324688b02f3a30c035a651
+run_name: Treinamento
+run_uuid: 19b9a517f0324688b02f3a30c035a651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712166979643
+status: 4
+tags: []
+user_id: andre

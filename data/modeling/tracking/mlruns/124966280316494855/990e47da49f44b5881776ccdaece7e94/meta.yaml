@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/code/data_preparation/../../data/modeling/tracking/mlruns/124966280316494855/990e47da49f44b5881776ccdaece7e94/artifacts
+end_time: 1712667530103
+entry_point_name: ''
+experiment_id: '124966280316494855'
+lifecycle_stage: active
+run_id: 990e47da49f44b5881776ccdaece7e94
+run_name: bouncy-panda-141
+run_uuid: 990e47da49f44b5881776ccdaece7e94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712665915355
+status: 3
+tags: []
+user_id: andre

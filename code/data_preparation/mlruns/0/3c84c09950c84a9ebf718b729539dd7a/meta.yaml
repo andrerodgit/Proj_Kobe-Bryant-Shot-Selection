@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/3c84c09950c84a9ebf718b729539dd7a/artifacts
+end_time: 1712160171619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c84c09950c84a9ebf718b729539dd7a
+run_name: glamorous-conch-367
+run_uuid: 3c84c09950c84a9ebf718b729539dd7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712160045054
+status: 3
+tags: []
+user_id: andre

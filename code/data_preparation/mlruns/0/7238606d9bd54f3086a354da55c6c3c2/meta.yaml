@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/src/data_preparation/mlruns/0/7238606d9bd54f3086a354da55c6c3c2/artifacts
+end_time: 1712162659162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7238606d9bd54f3086a354da55c6c3c2
+run_name: whimsical-ram-448
+run_uuid: 7238606d9bd54f3086a354da55c6c3c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712162022621
+status: 3
+tags: []
+user_id: andre

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/0/32352658befa4629b8e533cd067ff545/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32352658befa4629b8e533cd067ff545
+run_name: delightful-quail-769
+run_uuid: 32352658befa4629b8e533cd067ff545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712601079420
+status: 1
+tags: []
+user_id: andre

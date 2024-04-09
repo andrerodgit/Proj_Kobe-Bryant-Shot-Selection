@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/data/modeling/tracking/mlruns/819135604688997015/30ad6b375b374a29994cd4930da55729/artifacts
+deleted_time: 1712330793998
+end_time: 1712014279849
+entry_point_name: ''
+experiment_id: '819135604688997015'
+lifecycle_stage: deleted
+run_id: 30ad6b375b374a29994cd4930da55729
+run_name: PreparacaoDados
+run_uuid: 30ad6b375b374a29994cd4930da55729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712014279718
+status: 3
+tags: []
+user_id: andre

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Proj_Kobe-Bryant-Shot-Selection/code/data_preparation/../../data/modeling/tracking/mlruns/124966280316494855/4c3b5a946bdd467f8e2fe7f16324226b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '124966280316494855'
+lifecycle_stage: active
+run_id: 4c3b5a946bdd467f8e2fe7f16324226b
+run_name: enchanting-conch-312
+run_uuid: 4c3b5a946bdd467f8e2fe7f16324226b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712669141152
+status: 1
+tags: []
+user_id: andre
